@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+html {
+	background:url('1.jpg');
+	background-size: cover;
+}
+
+
+
+.header {
+	word-spacing:35px;
+	width: 480px
+	border:1px solid gray;
+	height: 25px;
+	margin: 10px auto;
+	padding:25px;
+    background-color: black;
+    text-align: center;
+    font-style: bold;
+    font-family: Trebuchet MS;
+    border-color: white;
+    font-size:1.1em;
+    letter-spacing: 5px;
+    color:white;
+    text-decoration
+    border-color: gray;
+
+}
+
+
+
+img{
+float: left;
+height:50px;
+margin-top:-13px;
+
+
+}
+
+
+.topcontainer {
+	height:5px;
+	margin:0 auto;
+ background-color: black;
+ width: 530px;
+ color:white;
+ border:1px  solid gray;
+ font-family: trebuchet MS;
+ padding: 15px;
+ border-width: 2px;
+ border-style: groove;
+ text-align: center;
+ letter-spacing: 2px;
+
+
+
+
+}
+@media (min-width: 950px){
+.container  {
+
+	margin:0 auto;
+	padding-bottom:6px;
+	width:550px;
+	border:1px solid solid white;
+	background-color:black;
+	height: 550px;
+    color:white	;
+	font-family: trebuchet MS;
+	letter-spacing: 2px;
+	font-size:13px;
+    padding: 7px;
+    position: center;
+    padding-left: 8px;
+     text-align: center;
+
+
+}}
+
+
+.container2 {
+width:8px;
+padding-left:8px;
+height:150px;
+position:center;
+margin-bottom: 60px;
+
+
+}
+.audio {
+width: 50px;
+height:54px;
+
+}
+
+
+
+.navbarleft {
+	letter-spacing: 5px;
+  height: 275px
+  padding-top:0;
+	width:125px;
+	border:1px solid gray;
+	background-color: black;
+	padding:17px;
+ position: absolute;
+ line-height: 40px;
+ font-size: 12px;
+ border-width: 3px;
+ border-style: groove;
+
+
+
+
+
+}
+ul {
+list-style-type: none;
+}
+.navbarright {
+
+	letter-spacing: 2px;
+	font-size: 15px;
+
+	color:white;
+	width:125px;
+	padding-top:0;
+	padding:35px;
+	height:275px;
+	float: right;
+	line-height: 80px;
+    border:2px solid gray;
+	background-color: black;
+    border-width: 3px;
+ border-style: groove;
+
+}
+.meniu {
+	font-size: 50px;
+	position: center;
+
+}
+
+
+
+
+
+.footer {
+  font-size:10px;
+position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 25px;
+  padding: 1rem;
+  background-color: black;
+  text-align: center;
+  font-family: Trebuchet MS;
+  font-style:bold;
+  letter-spacing: 10px;
+    color:white;
+  word-spacing:100px;
+}
+.copyright {
+	text-align: right;
+	font-size: 7px;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+ .text1{
+
+    color: white;
+    text-decoration: none;
+   	padding-left:1px;
+   	display: inline-block;
+   	padding-right: 50px;
+}
+
+
+ .text2{
+    color: white;
+    text-decoration: none;
+
+    }
+     .text2_2{
+
+     	word-spacing: 5px;
+    color: white;
+    text-decoration: none;
+
+}
+     .text3{
+    color: white;
+    word-spacing:35px;
+    text-decoration: none;
+
+    }
+
+ @media (max-width: 850px){
+    .navbarright {
+
+        margin-top: 60px;
+        transform: translatex(-0px);
+        height: 200px
+
+    }
+
+    .container   {
+
+
+    	padding-bottom:6px;
+    	width:100%;
+    	border:1px solid solid white;
+    	background-color:black;
+    	height: 750px;
+        color:white	;
+    	font-family: trebuchet MS;
+    	letter-spacing: 3px;
+    	font-size:15px;
+
+
+         text-align: center;
+         transform: translateZ(500px);
+         transform: translateY(300px);
+       text-align:center;
+     }
+     .navbarleft {
+     	letter-spacing: 5px;
+       height: 275px
+       padding-top:0;
+     	width:125px;
+     	border:1px solid gray;
+     	background-color: black;
+     	padding:17px;
+      position: absolute;
+      line-height: 40px;
+      font-size: 12px;
+      border-width: 3px;
+      border-style: groove;
+      margin-top: 90px
+
+
+}
+.container p {
+  text-align: center;
+
+	margin-left: -55px;
+	transform: translateX(40px);
+	width: 100%
+
+  }
+	.header {
+		word-spacing:20px;
+		width: 480px
+		border:1px solid gray;
+		height: 25px;
+		margin: 10px auto;
+		padding:25px;
+	    background-color: black;
+	    text-align: center;
+	    font-style: bold;
+	    font-family: Trebuchet MS;
+	    border-color: white;
+	    font-size:13px;
+	    letter-spacing: 5px;
+	    color:white;
+	    text-decoration
+	    border-color: gray;
+
+	}}
+
+ .text4{
+    color: white;
+    word-spacing:35px;
+    text-decoration: none;
+}
